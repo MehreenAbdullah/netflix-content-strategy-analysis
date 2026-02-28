@@ -3,8 +3,7 @@
 Project Overview
 ---
 
-
-This project evaluates Netflix’s content expansion strategy using title-level data. The analysis examines year-wise content additions, content mix (Movies vs TV Shows), geographic concentration, audience rating distribution, and release-to-- platform lead time. The objective is to assess platform growth intensity, market dependency, and audience positioning during its expansion phase.
+This analysis looks at how Netflix expanded its content library over time. It examines how many titles were added each year, the balance between Movies and TV Shows, which countries contributed most of the content, the type of audience ratings the platform focused on, and how long it took for content to appear on Netflix after release. The goal is to understand how aggressively the platform grew and how it positioned its content during its expansion phase.
 
 
 
@@ -34,8 +33,7 @@ Key Findings
 
 Conclusion
 ---
-The analysis indicates that Netflix pursued an aggressive scaling strategy during 2016–2019, prioritizing volume expansion, core production markets, and mature audience targeting. The content mix, geographic concentration, and rating profile collectively reflect a deliberate growth model centered on adult-focused entertainment and rapid catalog expansion rather than diversified global sourcing across all segments.
-
+The analysis shows that between 2016 and 2019, Netflix expanded its content library aggressively, focusing on increasing volume rather than gradual diversification. The platform relied heavily on a few core production markets and leaned strongly toward mature audience categories. The overall content mix and rating distribution suggest a deliberate strategy centered on scaling quickly and strengthening its adult-focused catalog instead of evenly diversifying across all regions and audience segments..
 
 
 Tools Used: Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
