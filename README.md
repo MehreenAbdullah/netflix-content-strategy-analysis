@@ -1,5 +1,4 @@
 ## Netflix-content-strategy-analysis
-
 Project Overview
 ---
 
