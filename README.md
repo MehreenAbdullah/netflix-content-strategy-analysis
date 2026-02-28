@@ -1,13 +1,15 @@
 ## Netflix-content-strategy-analysis
----
+
 Project Overview
+---
+
 
 This project evaluates Netflix’s content expansion strategy using title-level data. The analysis examines year-wise content additions, content mix (Movies vs TV Shows), geographic concentration, audience rating distribution, and release-to-- platform lead time. The objective is to assess platform growth intensity, market dependency, and audience positioning during its expansion phase.
 
 
 
 
-Project Structure
+Structure
 ---
 * Data Cleaning & Preparation – Handled missing values, standardized date fields, and engineered year-based features.
 * Content Mix Analysis – Assessed distribution between Movies and TV Shows.
